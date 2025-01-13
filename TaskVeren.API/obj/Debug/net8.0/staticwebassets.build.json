@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xnsp6WrjJUA5ahOhMT1AmWpA04TyFwh4zy3ipwSCtOM=",
+  "Source": "TaskVeren.API",
+  "BasePath": "_content/TaskVeren.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

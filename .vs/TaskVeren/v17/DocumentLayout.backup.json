@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.api\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|solutionrelative:taskveren.api\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\services\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\services\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.dal\\repositories\\interfaces\\iassingmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|solutionrelative:taskveren.dal\\repositories\\interfaces\\iassingmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.dal\\repositories\\implementations\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|solutionrelative:taskveren.dal\\repositories\\implementations\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|solutionrelative:taskveren.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E926B1-5A1F-4C8F-900D-2F173A31A841}|TaskVeren.DAL\\TaskVeren.DAL.csproj|solutionrelative:taskveren.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\dtos\\assignment\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\dtos\\assignment\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485BAA8B-B7CC-45E2-8C00-CD26525004A6}|TaskVeren.Core\\TaskVeren.Core.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485BAA8B-B7CC-45E2-8C00-CD26525004A6}|TaskVeren.Core\\TaskVeren.Core.csproj|solutionrelative:taskveren.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|solutionrelative:taskveren.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Migrations\\20250110142210_LastChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskVeren.DAL\\Migrations\\20250110142210_LastChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|solutionrelative:taskveren.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8870FFF4-B981-444C-99C4-CAF5EAF9722D}|TaskVeren.API\\TaskVeren.API.csproj|solutionrelative:taskveren.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|c:\\users\\meher\\onedrive\\desktop\\taskveren\\taskveren.business\\services\\interfaces\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A960885-6B5B-430F-8C73-14AF8E72597C}|TaskVeren.Business\\TaskVeren.Business.csproj|solutionrelative:taskveren.business\\services\\interfaces\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Implementations\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskVeren.DAL\\Repositories\\Implementations\\AssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Implementations\\AssignmentRepository.cs",
+              "RelativeToolTip": "TaskVeren.DAL\\Repositories\\Implementations\\AssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:21:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAssingmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Interfaces\\IAssingmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskVeren.DAL\\Repositories\\Interfaces\\IAssingmentRepository.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Interfaces\\IAssingmentRepository.cs",
+              "RelativeToolTip": "TaskVeren.DAL\\Repositories\\Interfaces\\IAssingmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:21:25.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "TaskVeren.DAL\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "TaskVeren.DAL\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:04:32.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaskVeren.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TaskVeren.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:03:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\Services\\Interfaces\\IAssignmentService.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Interfaces\\IAssignmentService.cs*",
+              "RelativeToolTip": "TaskVeren.Business\\Services\\Interfaces\\IAssignmentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:08:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "TaskVeren.API\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\Controllers\\AssignmentController.cs*",
+              "RelativeToolTip": "TaskVeren.API\\Controllers\\AssignmentController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:48:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Implementations\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\Services\\Implementations\\AssignmentService.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Implementations\\AssignmentService.cs*",
+              "RelativeToolTip": "TaskVeren.Business\\Services\\Implementations\\AssignmentService.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:38:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRegister.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\ServiceRegister.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\ServiceRegister.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\ServiceRegister.cs",
+              "RelativeToolTip": "TaskVeren.Business\\ServiceRegister.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:24:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250110142210_LastChanges.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Migrations\\20250110142210_LastChanges.cs",
+              "RelativeDocumentMoniker": "TaskVeren.DAL\\Migrations\\20250110142210_LastChanges.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.DAL\\Migrations\\20250110142210_LastChanges.cs",
+              "RelativeToolTip": "TaskVeren.DAL\\Migrations\\20250110142210_LastChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:22:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "RelativeToolTip": "TaskVeren.Business\\DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:21:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Core\\Entities\\Assignment.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Core\\Entities\\Assignment.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Core\\Entities\\Assignment.cs",
+              "RelativeToolTip": "TaskVeren.Core\\Entities\\Assignment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:21:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskVeren.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskVeren.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:18:56.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskVeren.API\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\Program.cs",
+              "RelativeToolTip": "TaskVeren.API\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwF8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:13:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "TaskVeren.Business\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:12:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TaskVeren.Business\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:12:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "TaskVeren.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:11:19.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\DTOs\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\DTOs\\User\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\DTOs\\User\\LoginDto.cs",
+              "RelativeToolTip": "TaskVeren.Business\\DTOs\\User\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:10:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\DTOs\\User\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\DTOs\\User\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\DTOs\\User\\RegisterDto.cs",
+              "RelativeToolTip": "TaskVeren.Business\\DTOs\\User\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:10:19.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskVeren.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.API\\appsettings.json",
+              "RelativeToolTip": "TaskVeren.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T14:08:31.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITopicService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Interfaces\\ITopicService.cs",
+              "RelativeDocumentMoniker": "TaskVeren.Business\\Services\\Interfaces\\ITopicService.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\TaskVeren\\TaskVeren.Business\\Services\\Interfaces\\ITopicService.cs",
+              "RelativeToolTip": "TaskVeren.Business\\Services\\Interfaces\\ITopicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:30:10.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
